@@ -708,12 +708,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Tempo"
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "797819fc-6215-402d-a3ed-56afd16a6ebd"
