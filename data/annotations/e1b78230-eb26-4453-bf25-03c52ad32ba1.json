@@ -754,12 +754,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Tempo"
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "5ff997b4-b980-44a1-8a7a-f76f9910186e"
