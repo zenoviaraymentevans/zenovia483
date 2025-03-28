@@ -174,12 +174,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Rhyme"
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "3d1896ce-c236-4c81-8bb6-9f898ed96853"
