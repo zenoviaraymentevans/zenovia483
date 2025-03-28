@@ -913,12 +913,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Caesura"
+          "tag": "Caesura",
+          "category": "Form"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Ambient Noise"
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "f915e55c-40d1-4c65-b028-578e25906b8c"
