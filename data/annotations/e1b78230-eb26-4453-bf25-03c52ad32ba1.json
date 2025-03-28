@@ -512,12 +512,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Speech"
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "e452a673-bfee-4381-b887-873729e8cd27"
