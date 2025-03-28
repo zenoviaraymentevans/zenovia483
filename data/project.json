@@ -1,1 +1,115 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"zenoviaraymentevans","is_private":false,"title":"Annotation of \"And Still I Rise\"","description":"This is an AVannotation of the poem \"And Still I Rise\" by Maya Angelou. ","language":"en","slug":"zenovia483","creator":"zenoviaraymentevans","authors":"Zenovia Rayment-Evans","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[{"category":"_uncategorized_","tag":"Transcription"},{"category":"_uncategorized_","tag":"Speech"},{"category":"_uncategorized_","tag":"Caesura"},{"category":"_uncategorized_","tag":"Timbre"},{"category":"_uncategorized_","tag":"Rhyme"},{"category":"_uncategorized_","tag":"Meter"},{"category":"_uncategorized_","tag":"Ambient Noise"},{"category":"_uncategorized_","tag":"Tempo"}]},"created_at":"2025-03-28T15:10:13.626Z","updated_at":"2025-03-28T15:17:35.547Z"}}
+{
+  "publish": {
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "zenoviaraymentevans",
+    "is_private": false,
+    "title": "Annotation of \"And Still I Rise\"",
+    "description": "This is an AVannotation of the poem \"And Still I Rise\" by Maya Angelou. ",
+    "language": "en",
+    "slug": "zenovia483",
+    "creator": "zenoviaraymentevans",
+    "authors": "Zenovia Rayment-Evans",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ]
+    },
+    "created_at": "2025-03-28T15:10:13.626Z",
+    "updated_at": "2025-03-28T15:18:03.347Z",
+    "generate_pages_site": false
+  },
+  "is_private": false
+}
