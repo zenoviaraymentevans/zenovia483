@@ -441,12 +441,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Rhyme"
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "1183cb48-1c28-43e0-9e5d-a07ad583dbdd"
