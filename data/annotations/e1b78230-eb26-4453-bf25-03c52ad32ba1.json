@@ -562,16 +562,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Caesura"
+          "tag": "Caesura",
+          "category": "Form"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Ambient Noise"
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
         }
       ],
       "uuid": "e4ab3b4d-da0e-442b-bbe7-3058f9e76faf"
