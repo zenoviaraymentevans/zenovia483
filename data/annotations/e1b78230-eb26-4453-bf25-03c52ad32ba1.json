@@ -591,8 +591,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
         }
       ],
       "uuid": "ba3d03ac-0032-42d2-ad79-67d04102dd2c"
