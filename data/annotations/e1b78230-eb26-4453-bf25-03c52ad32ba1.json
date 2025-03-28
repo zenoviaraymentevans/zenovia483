@@ -691,12 +691,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Tempo"
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "00760286-2145-45f4-828f-aa783f8dfcec"
