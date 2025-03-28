@@ -616,12 +616,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Tempo"
+          "tag": "Tempo",
+          "category": "Performance"
         }
       ],
       "uuid": "cbdfa0e5-f9f9-4d53-b985-a8a012c69639"
