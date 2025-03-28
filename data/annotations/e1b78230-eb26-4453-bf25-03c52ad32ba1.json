@@ -537,8 +537,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
         }
       ],
       "uuid": "46b50b11-f9b7-41f4-9b35-050be7e3e2fe"
