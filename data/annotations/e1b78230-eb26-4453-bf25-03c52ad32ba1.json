@@ -362,16 +362,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Transcription"
+          "tag": "Transcription",
+          "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Rhyme"
+          "tag": "Rhyme",
+          "category": "Form"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Meter"
+          "tag": "Meter",
+          "category": "Form"
         }
       ],
       "uuid": "7aa9317e-0166-4519-8fed-a52c87e0be6a"
