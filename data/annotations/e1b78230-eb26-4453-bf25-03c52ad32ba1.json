@@ -63,6 +63,14 @@
         {
           "category": "_uncategorized_",
           "tag": "Speech"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Background"
         }
       ],
       "uuid": "14cf18b0-5882-451e-adf2-b5a227326f95"
